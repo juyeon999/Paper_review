@@ -1,9 +1,9 @@
-<Paper review: Outlier Detection: Applications And Techniques >
+<Paper review: "Anomaly detection: A survey." >
 
-Singh, Karanjit, and Shuchita Upadhyaya. "Outlier detection: applications and techniques." International Journal of Computer Science Issues (IJCSI) 9.1 (2012): 307.
+Chandola, Varun, Arindam Banerjee, and Vipin Kumar. "Anomaly detection: A survey." ACM computing surveys (CSUR) 41.3 (2009): 1-58.
 
 ## 한 줄 요약
-Outlier 종류, label에 따른 방법론 분류, domain별 paper 리뷰는 잘 되어 있으나 옛날 논문이다.
+Outlier 종류, label에 따른 방법론 분류, domain별 paper 리뷰 잘 되어있고 citation도 엄청 많은 제일 클래식한 리뷰 페이퍼. (근데 2009년 논문이라 최신 경향은 없음)
 
 1. Types of Outliers
    - Point Outliers
